@@ -1,11 +1,12 @@
 # Common Casing Styles
 
 ## `TitleCase`
-also known as `PascalCase`
+also known as `PascalCase`, `UpperCamelCase`
 - first letters are caps
 - no separation char
 
 ## `camelCase`
+also known as `lowerCamelCase`
 - first letter is lower
 - first after separation is caps
 - no separation char
