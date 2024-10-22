@@ -44,6 +44,13 @@ also known as `SCREAMING_SNAKE_CASE`, `MACRO_CASE`, `CONSTANT_CASE`
 - first after separation is upper
 - separation char is underscore
 
+## `Wiki_case`
+- first letter is upper
+- first after separation is lower
+- separation char is underscore
+- Used in url parts of wikipedia pages.
+- Name or aliases unclear.
+
 ## `Pascal_Snake_Case`
 also known as `Title_Snake_Case`
 - first letters are upper
